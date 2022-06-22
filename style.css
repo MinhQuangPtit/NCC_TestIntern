@@ -32,6 +32,11 @@
     color: #ffff;
     background-color: #5C5C5C;
 }
+
+#nav li:hover a {
+    color: #ffff !important;
+}
+
 #nav li a{
     text-align: center;
     text-decoration: none;
