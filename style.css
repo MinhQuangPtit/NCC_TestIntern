@@ -55,17 +55,17 @@
 #body {
     display: flex;
     flex-direction: column;
-    max-width: 90%;
+    max-width: 100%;
     width: 1768px;
     justify-content: space-between;
-
+    
 }
 
 .body-content{
     display: flex;
     flex-direction: column;
     padding : 0px 129px;
-
+    
 }
 
 #body .content-1{
