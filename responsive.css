@@ -1,6 +1,4 @@
 
-
-
 @media (max-width:480px) {
     #nav {
         height:1300px;
@@ -9,7 +7,6 @@
     .body-content{
         padding : 0px 20px;
     }
-
     
     #body .content-1 .logo img{
         width: 100px;
@@ -45,7 +42,6 @@
         padding : 0px 25px;
     }
 
-    
     #body .content-1 .logo img{
         width: 150px;
     }
@@ -91,8 +87,6 @@
     #body .content-2{
         padding: 30px 30px;
     }
-
-
 }
 
 @media  (max-width:1080px){
@@ -101,9 +95,11 @@
         flex-direction: column;
 
     }
+
     .content-3-item-wrap{
         width: 100%;
     }
+
     .content-3-item-content-2{
         width: 100%;
     }
